@@ -9,7 +9,7 @@ Access para clientes.
 Facturación manual.
 Esto provoca errores, duplicidad de datos y poca eficiencia.
 
-## ERP Elegido: SAP S/4HANA
+### ERP Elegido: SAP S/4HANA
 Hemos elegido SAP por estos motivos:
 Integración total de ventas, almacén, clientes y facturación.
 Alta seguridad y control de permisos.
@@ -18,7 +18,7 @@ Escalabilidad para crecer en el futuro.
 Soporte empresarial profesional.
 Aunque es más caro que Odoo o Zoho One, es más robusto y preparado para empresas que quieren profesionalizarse.
 
-## Seguridad RBAC
+### Seguridad RBAC
 Roles
 Administrador
 Acceso total.
