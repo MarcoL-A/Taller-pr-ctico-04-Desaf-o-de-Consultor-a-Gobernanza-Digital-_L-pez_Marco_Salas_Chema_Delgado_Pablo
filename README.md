@@ -14,7 +14,7 @@ Access para clientes.
 Facturación manual.
 Esto provoca errores, duplicidad de datos y poca eficiencia.
 
-ERP Elegido: SAP S/4HANA
+## ERP Elegido: SAP S/4HANA
 Motivos de la elección
 Se elige SAP S/4HANA porque ofrece:
 Integración total de ventas, almacén, clientes y facturación.
