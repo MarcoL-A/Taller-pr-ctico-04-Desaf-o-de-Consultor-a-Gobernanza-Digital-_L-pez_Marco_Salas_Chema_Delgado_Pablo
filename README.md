@@ -15,8 +15,7 @@ Facturación manual.
 Esto provoca errores, duplicidad de datos y poca eficiencia.
 
 ## ERP Elegido: SAP S/4HANA
-Motivos de la elección
-Se elige SAP S/4HANA porque ofrece:
+Hemos elegido SAP por estos motivos:
 Integración total de ventas, almacén, clientes y facturación.
 Alta seguridad y control de permisos.
 Gran capacidad de personalización para etiquetas y logística.
