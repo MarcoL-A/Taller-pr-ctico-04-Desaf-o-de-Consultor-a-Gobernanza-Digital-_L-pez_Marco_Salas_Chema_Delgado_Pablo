@@ -18,17 +18,23 @@ Escalabilidad para crecer en el futuro.
 Soporte empresarial profesional.
 Aunque es más caro que Odoo o Zoho One, es más robusto y preparado para empresas que quieren profesionalizarse.
 
-### Seguridad RBAC
-Roles
-Administrador
-Acceso total.
-Comercial
-Solo puede ver sus clientes y presupuestos.
-No puede ver stock ni contabilidad.
-Operario de almacén
-Solo puede gestionar stock y albaranes.
-Contable
-Puede gestionar facturas.
-No puede modificar inventario.
-Principio aplicado
-Mínimo privilegio: cada usuario solo accede a lo necesario.
+# Seguridad RBAC
+
+## Roles
+
+### Administrador
+- Acceso total.
+
+### Comercial
+- Solo puede ver sus clientes y presupuestos.
+- No puede ver stock ni contabilidad.
+
+### Operario de almacén
+- Solo puede gestionar stock y albaranes.
+
+### Contable
+- Puede gestionar facturas.
+- No puede modificar inventario.
+
+## Principio aplicado
+**Mínimo privilegio:** cada usuario solo accede a lo necesario.
