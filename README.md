@@ -1,7 +1,6 @@
 # Taller-práctico-04 Desafío de Consultor a Gobernanza Digital.
 ## López_Marco, Salas_Chema y Delgado_Pablo.
 
-### El escenario:
 ## Empresa
 ### Aceites del Aljarafe S.L.
 #### Actualmente utilizan:
