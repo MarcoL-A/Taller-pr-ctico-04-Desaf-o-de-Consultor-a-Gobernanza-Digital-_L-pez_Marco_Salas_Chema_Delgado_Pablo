@@ -7,7 +7,7 @@
 Excel para inventario.
 Access para clientes.
 Facturación manual.
-Esto provoca errores, duplicidad de datos y poca eficiencia.
+Esto provoca errores, duplicidad de datos y poca eficiencia
 
 ### ERP Elegido: SAP S/4HANA
 Hemos elegido SAP por estos motivos:
