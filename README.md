@@ -11,7 +11,7 @@ Esto provoca errores, duplicidad de datos y poca eficiencia
 
 ### ERP Elegido: SAP S/4HANA
 Hemos elegido SAP por estos motivos:
-Integración total de ventas, almacén, clientes y facturación.
+Integración total de ventas, almacén, clientes y facturación
 Alta seguridad y control de permisos.
 Gran capacidad de personalización para etiquetas y logística.
 Escalabilidad para crecer en el futuro.
