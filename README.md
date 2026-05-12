@@ -1,7 +1,7 @@
 # Taller-práctico-04 Desafío de Consultor a Gobernanza Digital.
 ## López_Marco, Salas_Chema y Delgado_Pablo.
 
-## Empresa
+## Empresa:
 ### Aceites del Aljarafe S.L.
 #### Actualmente utilizan:
 Excel para inventario.
@@ -18,26 +18,6 @@ Escalabilidad para crecer en el futuro.
 Soporte empresarial profesional.
 Aunque es más caro que Odoo o Zoho One, es más robusto y preparado para empresas que quieren profesionalizarse.
 
-# Seguridad RBAC
-
-## Roles.
-
-### Administrador
-- Acceso total.
-
-### Comercial
-- Solo puede ver sus clientes y presupuestos.
-- No puede ver stock ni contabilidad.
-
-### Operario de almacén
-- Solo puede gestionar stock y albaranes.
-
-### Contable
-- Puede gestionar facturas.
-- No puede modificar inventario.
-
-## Principio aplicado
-**Mínimo privilegio:** cada usuario solo accede a lo necesario.
 
 ## Bloque B: Diseño de Seguridad RBAC (CE f)
 El modelo de Control de Acceso Basado en Roles (RBAC) para SAP S/4HANA se ha diseñado bajo el Principio de Mínimo Privilegio. Esto garantiza que cada perfil cuente exclusivamente con las autorizaciones necesarias para desempeñar sus funciones, reduciendo riesgos de seguridad y errores operativos.
