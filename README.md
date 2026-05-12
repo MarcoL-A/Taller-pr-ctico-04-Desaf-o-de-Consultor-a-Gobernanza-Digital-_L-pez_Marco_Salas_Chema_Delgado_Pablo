@@ -20,7 +20,7 @@ Aunque es más caro que Odoo o Zoho One, es más robusto y preparado para empres
 
 # Seguridad RBAC
 
-## Roles
+## Roles.
 
 ### Administrador
 - Acceso total.
